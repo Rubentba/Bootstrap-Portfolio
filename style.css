@@ -89,3 +89,21 @@ html {
     width: 100%;
     margin: 0;
 }
+
+/* Contact */
+form {
+    margin: 10px;
+    width: 100%;
+}
+input {
+    margin: 10px;
+}
+#exampleFormControlTextarea1 {
+    padding-bottom: 200px;
+}
+.btn-primary {
+    background: #4aaaa5;
+    color: #fff;
+    border: none;
+    padding: 10px, 30px;
+}
